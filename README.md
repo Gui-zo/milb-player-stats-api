@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# milb-player-stats-api
+This app returns the next {n} games until a given date for a player.
